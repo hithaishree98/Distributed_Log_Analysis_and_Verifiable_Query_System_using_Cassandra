@@ -4,13 +4,13 @@
 
 ### Part 1: Distributed Log Analysis with Cassandra
 
-Objective:
+### Objective:
 
 Set up a Cassandra cluster across multiple nodes.
 
 Import and analyze real web server logs using CQL and Python.
 
-Highlights:
+### Highlights:
 
 Cassandra 3-node cluster setup with cassandra.yaml configuration.
 
@@ -18,7 +18,7 @@ Log data imported using DSBulk.
 
 Log analysis performed using Python + Cassandra Driver (CQL).
 
-Key Files:
+### Key Files:
 
 dsbulk.conf – Config for DataStax Bulk Loader
 
@@ -28,11 +28,11 @@ log_queries.py – Python scripts for analytical queries
 
 ### Part 2: Blockchain-Assisted Verifiable Cassandra
 
-Objective:
+### Objective:
 
 Enable verifiable data queries in an outsourced database environment using Merkle Trees and Ethereum smart contracts.
 
-Highlights:
+### Highlights:
 
 Implements four roles: Data Owner, Service Provider, Query Client, Malicious Client
 
@@ -40,7 +40,7 @@ Uses merkletools to construct Merkle Trees
 
 Smart contract interaction handled using Web3.py and Ganache
 
-Key Files:
+### Key Files:
 
 driver.py – Runs the complete verification workflow
 

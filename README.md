@@ -1,8 +1,8 @@
-*** Distributed Log Analysis and Verifiable Query System using Cassandra
+### Distributed Log Analysis and Verifiable Query System using Cassandra
 
-📆 Project Structure
+### Project Structure
 
-📁 Part 1: Distributed Log Analysis with Cassandra
+### Part 1: Distributed Log Analysis with Cassandra
 
 Objective:
 
@@ -26,7 +26,7 @@ log_data_small_log.csv – Sample log dataset
 
 log_queries.py – Python scripts for analytical queries
 
-📁 Part 2: Blockchain-Assisted Verifiable Cassandra
+### Part 2: Blockchain-Assisted Verifiable Cassandra
 
 Objective:
 
@@ -48,7 +48,7 @@ contract.sol – Ethereum smart contract
 
 merkle_utils.py – Utility functions to generate Merkle Tree and proofs
 
-📊 Queries Answered (Part 1)
+### Queries Answered (Part 1)
 
 Hits to specific path
 
@@ -62,7 +62,7 @@ Size-based filtering
 
 IPs with more than ten 404s
 
-🔐 Verifiable Queries (Part 2)
+### Verifiable Queries (Part 2)
 
 Data verification using Merkle Root comparison
 

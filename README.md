@@ -16,7 +16,10 @@ Cassandra 3-node cluster setup with cassandra.yaml configuration.
 
 Log data imported using DSBulk.
 
+![image](https://github.com/user-attachments/assets/a8c0d43a-8411-4d1f-8552-9eb2977ef659)
+
 Log analysis performed using Python + Cassandra Driver (CQL).
+
 
 ### Key Files:
 
@@ -62,9 +65,9 @@ Size-based filtering
 
 IPs with more than ten 404s
 
+![image](https://github.com/user-attachments/assets/fc8748b8-4675-4d33-b84b-a0f60e3b3d93)
+
 ### Verifiable Queries (Part 2)
 
 Data verification using Merkle Root comparison
-
-Attack detection via tampered data scenarios
 
